@@ -1,0 +1,16 @@
+{
+  "name": "pmx2fbx-service",
+  "version": "1.0.0",
+  "description": "pmx2fbx-service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saint software",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "node-cmd": "^3.0.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
